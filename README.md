@@ -9,4 +9,4 @@ Static React (Babel) page for the Solaire Facile generator. Everything runs clie
 
 ## Déploiement GitHub Pages
 
-Le dépôt est prêt à être servi depuis la branche `main` (racine) ou via Pages. Si Pages n'est pas encore activé : Settings → Pages → Deploy from a branch → `main` / `/ (root)`, ou laisser le workflow GitHub Actions (optionnel) pousser vers `github-pages`.
+Le dépôt est prêt à être servi depuis la branche `main` (racine). Si Pages n'est pas encore activé : Settings → Pages → Deploy from a branch → `main` / `/ (root)`. Aucun build n'est nécessaire.
